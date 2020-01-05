@@ -1,0 +1,3 @@
+# HOTELB
+
+[Doctumentation](./docs)
