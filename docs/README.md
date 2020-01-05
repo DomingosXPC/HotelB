@@ -2,7 +2,9 @@
 
 ## OBJECTIVE
 
-## DESING (screenshots)
+Basic Hotel website created with HTML and CSS Sandbox, made responsive for mobile devices.
+
+## DESIGN (screenshots)
 
 ### Home Page
 
@@ -26,4 +28,6 @@
 
 
 # Technologies
+
+CSS Sandbox and HTML.
 
