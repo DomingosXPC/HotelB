@@ -8,15 +8,15 @@ Basic Hotel website created with HTML and CSS Sandbox, made responsive for mobil
 
 ### Home Page
 
-![](./HomePage.png)
+![](./HomePage1.png)
 
 ###  About Page
 
-![](./AboutPage.png)
+![](./AboutPage1.png)
 
 ###  Contact Page
 
-![](./ContactPage.png)
+![](./ContactPage1.png)
 
 ###  Home Page Responsive
 
